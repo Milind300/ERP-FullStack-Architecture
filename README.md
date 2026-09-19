@@ -4,7 +4,7 @@ An enterprise-grade, high-scale 3-tier **Modular Monolithic** architectural refe
 
 ## 📊 Architecture Visual Chart
 
-![ERP Full Stack Architecture Blueprint](image_HWv_eK.png)
+![ERP Full Stack Architecture Blueprint](ERP_SYSTEM_ARC.png)
 
 ---
 
